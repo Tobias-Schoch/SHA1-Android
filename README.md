@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-[![Build Status](https://travis-ci.org/Tobias-Schoch/Uno.svg?branch=master)](https://travis-ci.org/Tobias-Schoch/Uno)
+https://travis-ci.org/Tobias-Schoch/SHA1-Android.svg?branch=master
 
 <br>
 
