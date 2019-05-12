@@ -2,7 +2,6 @@
   SHA-1 Decryption
 </h1>
 <br>
-<br>
 
 ## 📦 The Project
 
