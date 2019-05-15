@@ -28,3 +28,5 @@ You can find it at https://github.com/Tobias-Schoch/SHA1-Android.git
 - Flat Design
 - Just press with your keyword "Verschlüsseln" 
 - Get a 23 char password
+
+- Coming tomorrow: Saving Keys
