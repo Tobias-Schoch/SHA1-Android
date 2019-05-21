@@ -29,4 +29,4 @@ You can find it at https://github.com/Tobias-Schoch/SHA1-Android.git
 - Just press with your keyword "Verschlüsseln" 
 - Get a 23 char password
 
-- Coming tomorrow: Saving Keys
+- Coming next week: Saving Keys
