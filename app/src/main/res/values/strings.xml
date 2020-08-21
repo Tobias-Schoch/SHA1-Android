@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">SHA-1</string>
+    <string name="app_name">Hash it!</string>
+
+    <string-array name="list">
+        <item>MD5</item>
+        <item>SHA-1</item>
+        <item>SHA-256</item>
+        <item>SHA-512</item>
+    </string-array>
 </resources>
